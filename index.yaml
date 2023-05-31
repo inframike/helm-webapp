@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webapp:
+  - apiVersion: v2
+    appVersion: 1.16.3
+    created: "2023-05-31T15:20:01.337781752Z"
+    description: A Helm chart for Kubernetes
+    digest: aedc7d4b082b8105947e50e83a6e3167645aa566b6681dcfe6107173284522a5
+    name: webapp
+    type: application
+    urls:
+    - https://github.com/inframike/helm-webapp/releases/download/webapp-0.1.0/webapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-31T15:20:01.33858785Z"
